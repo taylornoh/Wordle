@@ -1,0 +1,1 @@
+when entering a new guess, make sure to call the testing cycle again to validate input before starting the game logic again
